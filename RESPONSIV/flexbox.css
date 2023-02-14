@@ -1,0 +1,31 @@
+
+.box img {
+    max-width: 10%;
+    height: auto;
+}
+.box {
+    display:flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+/*
+
+
+#BOX{
+    Ejemplo de lo que sería una FLEXBOX
+
+display:flex; activamos diseno FLEXBOX
+
+propiedades:valores
+justify-content
+align-items
+flex-direction
+order
+align-self
+flex-wrap
+flex-flow
+align-content
+
+}
+*/

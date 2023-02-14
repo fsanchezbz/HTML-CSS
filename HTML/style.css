@@ -1,0 +1,31 @@
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ 
+ body {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: beige;
+ }
+
+ /*div,
+ .primer { /*para usar en varios poner coma*/
+ 
+ header{
+    background-color: blueviolet;
+ }
+
+ /*div > h2 { }*/
+
+ .firstdiv{
+    background-color: brown;
+    display: block;
+    width: 50%;
+ }
+
+ #firstelment{
+    background-color: aqua;
+    display: flex;
+    width: 90%;
+ } 

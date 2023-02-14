@@ -1,0 +1,49 @@
+body {
+    /*background RESPONSIV*/
+   background-image: url("../resources/waffel.jpg");
+   background-image: no-repeat;
+   background-image: fixed;
+   background-image: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   /*background-color: rgba(255, 255, 255, 0.127)*/
+    
+}
+
+.group9 h1 {
+    color: orange;
+    }
+    
+.group9 ul {
+    margin: 15%;
+    border: 15%;
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    /*border-image-slice: 10%;*/
+      
+    }
+
+.group9 .borderless{
+    border:0;
+    background: transparent;
+}
+
+.group9 img {
+    height: auto;
+    max-width: 10%;
+    }
+
+#buttonContact {
+    background-color: orange;
+    border: none;
+    color: black;
+    padding: 10px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}    
+
